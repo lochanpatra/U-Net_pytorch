@@ -1,0 +1,12 @@
+torch>=1.13
+torchvision
+numpy
+matplotlib
+pillow
+geopandas
+osmnx
+rasterio
+shapely
+scikit-learn
+albumentations
+tqdm
