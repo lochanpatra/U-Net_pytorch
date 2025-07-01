@@ -17,7 +17,7 @@ The U-Net model used here is composed of:
 - Expanding path (decoder): to enable precise localization
 - Skip connections between encoder and decoder layers
 
-![U-Net Diagram](https://miro.medium.com/v2/resize:fit:828/format:webp/1*9p9cV08Lw3TOjKIPWJzDbg.png)
+
 
 
 
